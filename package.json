@@ -1,0 +1,36 @@
+{
+  "name": "node-snake-cli",
+  "version": "1.0.2",
+  "author": "Taseen Tanvir",
+  "description": "A command line Snake Game written in JavaScript.",
+  "homepage": "https://github.com/UserName/package-name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UserName/package-name.git"
+  },
+  "main": "index.js",
+  "bin": {
+    "run": "play.js"
+  },
+  "scripts": {
+    "play": "node play.js"
+  },
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81"
+  },
+  "keywords": [
+    "snake game",
+    "node snake",
+    "cli snake"
+  ],
+  "bugs": {
+    "url": "https://github.com/UserName/package-name/issues",
+    "email": "your-public-email@example.com"
+  },
+  "engineStrict": true
+}
