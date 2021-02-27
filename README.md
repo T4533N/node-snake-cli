@@ -1,4 +1,4 @@
-# 🐍 Snek.js
+# 🐍 Node-Snake-CLI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![node-snake-cli on NPM](https://img.shields.io/npm/v/node-snake-cli.svg?color=green&label=node-snake-cli)](https://www.npmjs.com/package/node-snake-cli)
 
