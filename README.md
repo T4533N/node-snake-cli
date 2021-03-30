@@ -21,7 +21,7 @@ npx node-snake-cli
 ### Clone from repository
 
 ```bash
-git clone https://github.com/taniarascia/node-snake-cli
+git clone https://github.com/T4533N/node-snake-cli
 cd
 
 # install and run via npm or yarn
