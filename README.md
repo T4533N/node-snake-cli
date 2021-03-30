@@ -22,7 +22,7 @@ npx node-snake-cli
 
 ```bash
 git clone https://github.com/T4533N/node-snake-cli
-cd
+cd node-snake-cli
 
 # install and run via npm or yarn
 npm i && npm run play
